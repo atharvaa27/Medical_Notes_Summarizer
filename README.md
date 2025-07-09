@@ -48,7 +48,7 @@ Doctors often face information overload during patient interactions. This summar
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/yourusername/medical-notes-summarizer.git
+git clone https://github.com/atharvaa27/Medical_Notes_Summarizer.git
 cd medical-notes-summarizer
 ```
 
